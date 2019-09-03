@@ -1,2 +1,2 @@
 # samsi-deep-learning
-Practical materials for the Deep Learning course at SAMSI/Duke Uni
+Practical materials for the Deep Learning course at SAMSI/Duke-UNC-NC State
