@@ -10,6 +10,6 @@ Practical materials for the Deep Learning course at SAMSI/Duke-UNC-NC State, usi
 
 ## Contact
 
-* Should you have any questions or problems, open an issue or email [Victor Gallego](https://vicgalle.github.io) (victor.gallego@icmat.es) or [Roi Naveiro](https://www.icmat.es/roi.naveiro) (roi.naveiro@icmat.es).
+* Should you have any questions or problems, open an issue or email [Victor Gallego](https://vicgalle.github.io) (victor.gallego@icmat.es) or [Roi Naveiro](https://roinaveiro.github.io/) (roi.naveiro@icmat.es).
 
 
