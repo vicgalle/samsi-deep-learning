@@ -15,6 +15,7 @@ Practical materials for the Deep Learning course at SAMSI/Duke-UNC-NC State, usi
 
 3. Intro to NLP using torchtext, the IMDB dataset and both an LSTM network and a Transformer. [notebook](https://github.com/vicgalle/samsi-deep-learning/blob/master/3_rnn_imdb.ipynb)
 
+4. Intro to adversarial examples, attacking a convolutional network. [notebook](https://github.com/vicgalle/samsi-deep-learning/blob/master/4_cnn_adversarial.ipynb)
 
 ## Contact
 
