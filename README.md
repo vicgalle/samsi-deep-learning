@@ -17,6 +17,8 @@ Practical materials for the Deep Learning course at SAMSI/Duke-UNC-NC State, usi
 
 4. Intro to adversarial examples, attacking a convolutional network. [notebook](https://github.com/vicgalle/samsi-deep-learning/blob/master/4_cnn_adversarial.ipynb)
 
+5. Intro to generative adversarial networks, using the MNIST dataset. [notebook](https://github.com/vicgalle/samsi-deep-learning/blob/master/5_intro_gans-full.ipynb)
+
 ## Contact
 
 * Should you have any questions or problems, open an issue or email [Victor Gallego](https://vicgalle.github.io) (victor.gallego@icmat.es) or [Roi Naveiro](https://roinaveiro.github.io/) (roi.naveiro@icmat.es).
